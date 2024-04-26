@@ -145,4 +145,8 @@ body {
     .principal__conteudo__texto {
         text-align: center;
     }
+
+    .principal__conteudo__links__subtitulo {
+        text-align: center;
+    }
 }
