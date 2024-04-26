@@ -137,4 +137,12 @@ body {
     .principal__conteudo {
         width: auto;
     }
+
+    .principal__conteudo__titulo{
+        text-align: center;
+    }
+
+    .principal__conteudo__texto {
+        text-align: center;
+    }
 }
